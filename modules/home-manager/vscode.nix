@@ -13,6 +13,7 @@
       vscode-icons-team.vscode-icons
       esbenp.prettier-vscode
       dracula-theme.theme-dracula
+      jnoortheen.nix-ide
     ];
   };
 }
