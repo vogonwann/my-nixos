@@ -4,7 +4,8 @@
   imports = [
     "/home/wann/nixos/modules/home-manager/kitty.nix"
     "/home/wann/nixos/modules/home-manager/helix.nix"
-    "/home/wann/nixos/modules/home-manager/git.nix"  
+    "/home/wann/nixos/modules/home-manager/git.nix"
+    "/home/wann/nixos/modules/home-manager/vscode.nix" 
   ];
   # Home Manager needs a bit of information about you and the paths it should
   # manage.
@@ -28,6 +29,24 @@
     # # "Hello, world!" when run.
     # pkgs.hello
     thunderbird
+    telegram-desktop
+    fluffychat
+    gimp
+    inkscape
+
+    discord
+    spotify
+    ncspot
+    steam
+
+    qbittorrent
+    delfin
+    mpv
+    sonixd
+
+    docker
+    docker-compose
+    
     noto-fonts
     noto-fonts-cjk
     noto-fonts-emoji
