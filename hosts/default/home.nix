@@ -4,6 +4,7 @@
   imports = [
     "/home/wann/nixos/modules/home-manager/kitty.nix"
     "/home/wann/nixos/modules/home-manager/helix.nix"
+    "/home/wann/nixos/modules/home-manager/git.nix"  
   ];
   # Home Manager needs a bit of information about you and the paths it should
   # manage.

@@ -92,14 +92,13 @@
     shell = pkgs.fish;
     packages = with pkgs; [
       firefox
-
+      git
       kitty
       yazi
       zellij
       eza
       ripgrep
       glances
-      git
       gh
       neofetch
       google-chrome
